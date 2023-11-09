@@ -1,0 +1,11 @@
+/* arquivo.css */
+body{
+    background-color: rgb(92, 211, 201); /*Cor de fundo  - SEMPRE USAR ";" no final da instrução*/
+    color: rgb(133, 65, 160); /* Cor do texto */
+    font-family: Verdana, Arial, "sans-serif"; /* Fontes */
+}
+/* Todos os títulos h1 */
+h1{
+    color: #000000;
+    text-align: center; /* Centraliza */
+}
